@@ -1,0 +1,30 @@
+body {
+	
+	
+  text-align: center;
+}
+body .container {
+  width: auto;
+  max-width: 960px;
+}
+body .container img {
+  display: inline-block;
+  width: 30%;
+  vertical-align: middle;
+}
+body .load-more,
+body .shuffle {
+  display: inline-block;
+  background-color: blue;
+  text-decoration: none;
+  color: #eeeeee;
+  padding: 20px 50px;
+  border-radius: 10px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+body .load-more:hover,
+body .shuffle:hover {
+  background-color: skyblue;
+  color: #1a1a1a;
+}

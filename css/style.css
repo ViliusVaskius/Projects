@@ -1,0 +1,11 @@
+@charset "utf-8";
+.header1 {
+	background-image: url(../images/tip_01.png);
+	background-repeat: no-repeat;
+	/* [disabled]background-size: cover; */
+	width: 100%;
+	background-position: center 0%;
+}
+.header1 .container {
+	width: 100%;
+}

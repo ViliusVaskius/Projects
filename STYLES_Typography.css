@@ -1,0 +1,687 @@
+html,body
+{
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden; 
+}
+
+
+body header {
+	background-image: url(images/headerissss_01.png);
+	display: inline-block;
+	background-repeat: no-repeat;
+	background-size: cover;
+	/* [disabled]clear: both; */
+	width: 100%;
+	background-position: center center;
+	padding-bottom: 47px;
+}
+#logo {
+	text-align: left;
+	padding-top: 38px;
+	padding-left: 100px;
+	/* [disabled]margin-top: -98px; */
+	display: inline-block;
+	float: left;
+	padding-bottom: 4px;
+}
+#blog {
+	text-align: left;
+	color: rgba(245,245,245,1.00);
+	font-size: 42px;
+	float: left;
+	margin-top: 11px;
+	clear: both;
+	margin-left: 102px;
+}
+
+#pages{
+	
+}
+
+#bukn {
+	text-align: left;
+	float: left;
+	color: rgba(227,45,48,1.00);
+	display: inline-block;
+	clear: both;
+	margin-left: 101px;
+}
+.nav {
+	display: inline-block;
+	margin-top: 25px;
+	padding-bottom: 113px;
+}
+.nav ul {
+	text-align: center;
+	text-decoration: none;
+	/* [disabled]display: inline-block; */
+}
+.nav ul li {
+	text-decoration: none;
+	text-align: center;
+	list-style-type: none;
+	text-transform: none;
+	display: inline-block;
+	padding-right: 42px;
+	padding-top: 4px;
+}
+ul li a {
+	text-decoration: none;
+	list-style-type: none;
+	color: rgba(228,223,223,1.00);
+	font-size: 25px;
+}
+ul li #pages {
+	border-bottom: 1px solid rgba(228,27,30,1.00);
+}
+.hom_blg {
+	display: block;
+	position: absolute;
+	left: 0px;
+	color: rgba(228,223,223,1.00);
+	font-size: 15px;
+	text-align: center;
+	float: right;
+	min-width: 293px;
+	max-width: 96%;
+	/* [disabled]min-height: 233px; */
+	/* [disabled]max-height: 238px; */
+	width: 223px;
+	right: 0px;
+	margin: 0 auto;
+	padding-left: 366px;
+	padding-top: 9px;
+}
+@media screen and (max-width:700px){
+	
+	container{
+		padding-left: 5px;
+		
+	}
+	
+	
+	.blokas1{
+		padding-left: 5px;
+	}
+	
+	
+	
+	.hom_blg{
+	padding-left: 130px;
+	min-width: 190px;
+
+	
+	
+	}
+	
+	#blog{
+		margin-left: 50px;
+	}
+	
+	#logo{
+		padding-left: 50px;
+	}
+
+
+	.citatos{
+		padding-left: 5px;
+	}
+	.lorem1{
+		padding-left: 5px;
+		
+
+	}
+	
+	.lorem2{
+		padding-left: 5px;
+		
+	}
+container .ilgas33 {
+	padding-left: 1px;
+	padding-right: 5px;
+	float: left;
+}
+
+}
+
+
+
+
+
+
+
+
+
+.blokas1 {
+	display: inline-block;
+	width: 1180px;
+	margin: 0 auto;
+	min-width: 298px;
+	max-width: 100%;
+	padding-top: 61px;
+}
+.blokas1 .H {
+	width: 326px;
+	display: inline-block;
+	min-width: 279px;
+	text-align: left;
+}
+.blokas1 .H p {
+}
+.H h1 a {
+	font-size: 25px;
+
+}
+
+.blokas1 .H h1 {
+}
+.blokas1 .H .lor {
+	/* [disabled]min-width: 233px; */
+	width: 268px;
+	/* [disabled]display: block; */
+	text-align: left;
+}
+.blokas1 .H1 {
+	width: 326px;
+	display: inline-block;
+	min-width: 279px;
+	text-align: left;
+}
+.blokas1 .H2 {
+width: 326px;
+	display: inline-block;
+	min-width: 279px;
+	text-align: left;
+}
+.blokas1 .H3 {
+	
+	width: 326px;
+	display: inline-block;
+	min-width: 279px;
+	text-align: left;
+	padding-top: 0px;
+	padding-top: 40px;
+}
+.blokas1 .H4 {
+	width: 326px;
+	display: inline-block;
+	min-width: 279px;
+	text-align: left;
+	padding-top: 0px;
+}
+.blokas1 .H5 {
+width: 326px;
+	display: inline-block;
+	min-width: 279px;
+	text-align: left;
+}
+body container {
+	display: inline-block;
+	width: 1180px;
+	margin: 0 auto;
+	min-width: 298px;
+	max-width: 100%;
+	padding-top: 61px;
+}
+.black {
+	display: inline-block;
+}
+.black img {
+	display: inline-block;
+	position: absolute;
+	margin-top: -32px;
+	margin-left: -42px;
+}
+.citatos {
+	margin: 0 auto;
+	padding-top: 65px;
+}
+.citatos .first a .carl {
+	float: left;
+
+
+}
+
+.citatos .first {
+		display: inline-block;
+	width: 471px;
+	margin: 0 auto;
+	text-align: left;
+	vertical-align: top;
+	padding-top: 9px;
+	min-width: 297px;
+	max-width: 93%;
+}
+.first a .carl {
+	color: rgba(245,0,3,1.00);
+	display: inline-block;
+	padding-top: 20px;
+	float: left;
+	clear: right;
+}
+
+
+.citatos .first a {
+	display: inline-block;
+	margin-top: 12px;
+	padding-top: 22px;
+	line-height: 24px;
+}
+
+a .carl span {
+	display: block;
+	position: relative;
+	float: left;
+	margin-top: -7px;
+	margin-right: 7px;
+}
+
+.first a .carl {
+		color: rgba(245,0,3,1.00);
+	display: inline-block;
+	padding-top: 20px;
+}
+.citatos img {
+	display: inline-block;
+	padding-right: 50px;
+	padding-left: 50px;
+}
+.citatos .second {
+	display: inline-block;
+	width: 471px;
+	margin: 0 auto;
+	text-align: left;
+	vertical-align: top;
+	padding-top: 9px;
+	min-width: 297px;
+	max-width: 93%;
+}
+.citatos .second a {
+	display: inline-block;
+	margin-top: 12px;
+	padding-top: 22px;
+	line-height: 24px;
+}
+.second a .neil {
+	color: rgba(245,0,3,1.00);
+	display: inline-block;
+	padding-top: 20px;
+}
+a .neil span {
+	display: block;
+	position: relative;
+	float: left;
+	margin-top: -7px;
+	margin-right: 7px;
+}
+
+.drop {
+	display: block;
+	padding-top: 60px;
+	padding-bottom: 60px;
+}
+.lorem1 {
+	width: 542px;
+	display: inline-block;
+	min-width: 293px;
+	max-width: 100%;
+}
+.lorem1 a {
+	display: block;
+	padding-left: 0px;
+	text-align: left;
+	padding-right: 17px;
+	padding-top: 0px;
+	line-height: 23px;
+}
+.lorem1 a span {
+	font-size: 31px;
+	color: rgba(86,86,86,1.00);
+	text-align: left;
+	padding-right: 13px;
+	padding-left: 3px;
+	display: inline-block;
+	/* [disabled]position: absolute; */
+	padding-top: 0px;
+	padding-bottom: 10px;
+	vertical-align: bottom;
+}
+
+
+
+
+.drop img {
+	display: inline-block;
+	position: absolute;
+	margin-top: -32px;
+	margin-left: -42px;
+}
+.lorem2 {
+	width: 542px;
+	display: inline-block;
+	text-align: left;
+	min-width: 294px;
+	max-width: 100%;
+}
+.lorem2 a {
+	display: block;
+	padding-left: 0px;
+	text-align: left;
+	padding-right: 17px;
+	padding-top: 0px;
+	line-height: 23px;
+}
+.lorem2 a span {
+	font-size: 31px;
+	color: rgba(240,240,240,1.00);
+	padding-right: 13px;
+	padding-left: 12px;
+	display: inline-block;
+	/* [disabled]position: absolute; */
+	padding-top: 8px;
+	padding-bottom: 15px;
+	vertical-align: bottom;
+	width: 15px;
+	height: 14px;
+	background-color: rgba(249,6,10,1.00);
+}
+.lorem2 a #raud {
+	background-color: rgba(247,7,11,1.00);
+	width: 140px;
+	display: inherit;
+	color: rgba(255,255,255,1.00);
+	text-align: left;
+}
+.colums {
+		display: block;
+	padding-top: 60px;
+	padding-bottom: 60px;
+}
+.colums img {
+	display: inline-block;
+	position: absolute;
+	margin-top: -32px;
+	margin-left: -51px;
+}
+.ilgas {
+	width: 100%;
+	text-align: left;
+
+}
+.ilgas p {
+}
+.ilgas a {
+}
+.ilgas2 {
+	width: 505px;
+	display: inline-block;
+	text-align: left;
+	min-width: 297px;
+	max-width: 100%;
+	float: left;
+}
+.ilgas22 {
+	width: 511px;
+	display: inline-block;
+	text-align: left;
+	padding-right: 0px;
+	min-width: 289px;
+	max-width: 100%;
+	float: right;
+}
+.ilgas3 {
+	width: 360px;
+	display: inline-block;
+	text-align: left;
+	/* [disabled]float: left; */
+}
+.ilgas33 {
+	width: 360px;
+	display: inline-block;
+	text-align: left;
+	padding-right: 36px;
+	padding-left: 35px;
+}
+.ilgas333 {
+	width: 360px;
+	display: inline-block;
+	text-align: left;
+	/* [disabled]float: right; */
+}
+
+ .ilgas4 {
+	width: 270px;
+	display: inline-block;
+	text-align: left;
+}
+.4blk {
+	display: inline-block;
+	margin-top: 77px;
+	width: 100%;
+}
+.ilgas44 {
+	width:270px;
+	display: inline-block;
+	text-align: left;
+}
+.ilgas444 {
+	width: 270px;
+	display: inline-block;
+	text-align: left;
+}
+
+
+
+ .ilgas4444 {
+	width: 270px;
+	display: inline-block;
+	text-align: left;
+}
+.ilgas6 {
+	width: 190px;
+	display: inline-block;
+	text-align: left;
+}
+
+.ilgas66 {width: 190px;
+	display: inline-block;
+	text-align: left;
+	
+}
+.ilgas666 {width: 190px;
+	display: inline-block;
+	text-align: left;
+	
+}
+.ilgas6666 {width: 190px;
+	display: inline-block;
+	text-align: left;
+}
+
+.ilgas66666 {width: 190px;
+	display: inline-block;
+	text-align: left;
+	
+}
+.ilgas666666 {
+	width: 190px;
+	display: inline-block;
+	text-align: left;
+	margin-bottom: 80px;
+	
+}.trumpas {
+	width: 362px;
+	text-align: left;
+	display: inline-block;
+	margin-top: 47px;
+	float: left;
+}
+.trumpas1 {
+	display: inline-block;
+	text-align: left;
+	float: right;
+	margin-top: 51px;
+	width: 790px;
+}
+.trumpas2 {
+	width: 868px;
+	display: inline-block;
+	text-align: left;
+	margin-top: 51px;
+}
+.trumpas22 {
+	width: 280px;
+	text-align: left;
+	display: inline-block;
+	margin-top: 47px;
+	float: left;
+}
+.trumpas3 {
+	
+		width: 227px;
+	text-align: left;
+	display: inline-block;
+	/* [disabled]margin-top: 47px; */
+	/* [disabled]float: left; */
+	
+	
+	
+}
+.trumpas33 {
+	width: 906px;
+	display: inline-block;
+	text-align: left;
+	margin-top: 51px;
+	float: right;
+}
+.trumpas11 {
+	width: 231px;
+	text-align: left;
+	display: inline-block;
+	margin-top: 51px;
+	float: left;
+	clear: both;
+}
+
+
+
+
+.trumpas12 {
+	width: 931px;
+	display: inline-block;
+	text-align: left;
+	margin-top: 51px;
+}
+
+
+
+.footer {
+	width: 100%;
+	display: inline-block;
+	background-color: rgba(48,48,48,1.00);
+	padding-bottom: 70px;
+	opacity: 1;
+	z-index: -12;
+	margin-top: 90px;
+}
+.footer .soc {
+	display: inline-block;
+	float: left;
+	margin-top: 67px;
+	margin-left: 60px;
+	/* [disabled]padding-left: 70px; */
+	padding-right: 204px;
+}
+.footer .soc a {
+	/* [disabled]margin-left: 2px; */
+	/* [disabled]margin-right: 29px; */
+	display: inline-block;
+	padding-right: 0px;
+}
+.soc a img {
+	/* [disabled]margin-left: 50px; */
+	margin-top: 5px;
+	margin-right: 39px;
+	display: inline-block;
+}
+
+
+
+.soc a img:hover{
+	
+	background-color: rgba(54,47,47,1.00);
+	color: rgba(74,69,69,1.00)
+}
+
+
+@media only screen and (max-width: 800px){
+	
+	.footer .soc{
+	margin-left: 0px;
+	display: inline-block;
+	left: 0px;
+	right: 0px;
+	}
+
+
+
+
+
+
+
+	
+}
+.footer img {
+	display: inline-block;
+	padding-top: 23px;
+	position: relative;
+	float: left;
+	padding-left: 0px;
+	padding-right: 0px;
+	margin: 0 auto;
+	/* [disabled]text-align: center; */
+}
+.footer .log {
+	display: inline-block;
+	padding-top: 11px;
+	padding-left: 125px;
+	margin: 0 auto;
+	position: relative;
+	float: left;
+}
+
+.footer #copy {
+	padding-top: 82px;
+	display: inline-block;
+	color: rgba(195,190,190,1.00);
+	padding-right: 18px;
+	padding-left: 23px;
+	position: relative;
+}
+a .ar img {
+	margin-top: -19px;
+	margin-left: 2px;
+}
+
+
+
+.ar {
+	display: inline-block;
+	background-color: rgba(107,105,105,1.00);
+	float: right;
+	padding-top: 22px;
+	padding-right: 22px;
+	padding-bottom: 22px;
+	padding-left: 22px;
+	margin-right: 78px;
+	z-index: 20;
+	margin-bottom: -13px;
+	opacity: 1;
+	width: 23px;
+	height: 20px;
+	bottom: 0px;
+	position: static;
+	margin-top: -30px;}
