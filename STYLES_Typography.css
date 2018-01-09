@@ -95,6 +95,7 @@ ul li #pages {
 	padding-left: 366px;
 	padding-top: 9px;
 }
+
 @media screen and (max-width:700px){
 	
 	container{
@@ -409,7 +410,6 @@ a .neil span {
 .ilgas {
 	width: 100%;
 	text-align: left;
-
 }
 .ilgas p {
 }
@@ -449,7 +449,6 @@ a .neil span {
 	width: 360px;
 	display: inline-block;
 	text-align: left;
-	/* [disabled]float: right; */
 }
 
  .ilgas4 {
@@ -480,33 +479,44 @@ a .neil span {
 	display: inline-block;
 	text-align: left;
 }
-.ilgas6 {
+
+@media only screen and (max-width: 1170px){
+	
+	.ilg6 {
+	float: left;
+	display: inline-block;
+	}
+	
+}
+
+.ilg6 {
+	display: inline-block;
+}
+.ilg6 .ilgas6 {
 	width: 190px;
 	display: inline-block;
 	text-align: left;
 }
-
-.ilgas66 {width: 190px;
+.ilg6  .ilgas66 {width: 190px;
 	display: inline-block;
 	text-align: left;
 	
 }
-.ilgas666 {width: 190px;
+.ilg6  .ilgas666 {width: 190px;
 	display: inline-block;
 	text-align: left;
 	
 }
-.ilgas6666 {width: 190px;
+.ilg6  .ilgas6666 {width: 190px;
 	display: inline-block;
 	text-align: left;
 }
-
-.ilgas66666 {width: 190px;
+.ilg6 .ilgas66666 {width: 190px;
 	display: inline-block;
 	text-align: left;
 	
 }
-.ilgas666666 {
+.ilg6 .ilgas666666 {
 	width: 190px;
 	display: inline-block;
 	text-align: left;
@@ -518,19 +528,25 @@ a .neil span {
 	display: inline-block;
 	margin-top: 47px;
 	float: left;
+	min-width: 306px;
+	max-width: 100%;
 }
 .trumpas1 {
 	display: inline-block;
 	text-align: left;
-	float: right;
+	/* [disabled]float: right; */
 	margin-top: 51px;
 	width: 790px;
+	min-width: 291px;
+	max-width: 100%;
 }
 .trumpas2 {
 	width: 868px;
 	display: inline-block;
 	text-align: left;
 	margin-top: 51px;
+	min-width: 297px;
+	max-width: 100%;
 }
 .trumpas22 {
 	width: 280px;
@@ -540,12 +556,13 @@ a .neil span {
 	float: left;
 }
 .trumpas3 {
-	
-		width: 227px;
+	width: 227px;
 	text-align: left;
 	display: inline-block;
 	/* [disabled]margin-top: 47px; */
 	/* [disabled]float: left; */
+	min-width: 296px;
+	max-width: 100%;
 	
 	
 	
@@ -574,6 +591,8 @@ a .neil span {
 	display: inline-block;
 	text-align: left;
 	margin-top: 51px;
+	min-width: 289px;
+	max-width: 100%;
 }
 
 

@@ -15,6 +15,7 @@ body header {
 	display: inline-block;
 	background-image: url(images/Headerrrr.png);
 }
+
 .nav_left ul img {
 	/* [disabled]margin-right: -8px; */
 	margin-left: 46px;
@@ -657,10 +658,11 @@ div .blokeliukai .third {
 	margin-top: 97px;
 	margin-left: 24px;
 	margin-right: 18px;
-	padding-top: 17px;
+	padding: 5px;
 }
 .grey .big_city img:hover{
 	background: rgba(244,13,17,1.00);
+	border-radius: 75px;
 }
 
 
